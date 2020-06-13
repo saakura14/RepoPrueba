@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589484866 source:c:\users\valeria\desktop\tp2-gilvaleria\getvalues.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
